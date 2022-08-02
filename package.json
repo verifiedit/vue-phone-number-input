@@ -1,5 +1,5 @@
 {
-  "name": "vue-phone-number-input",
+  "name": "@verifiedinternational/vue-phone-number-input",
   "version": "1.1.12",
   "description": "A phone number input made with Vue JS && libphonenumber-js",
   "author": "Louis Mazel <me@loicmazuel.com>",
@@ -25,7 +25,7 @@
     "nuxt/"
   ],
   "dependencies": {
-    "libphonenumber-js": "^1.7.51",
+    "libphonenumber-js": "^1.10.11",
     "style-helpers": "^1.0.2",
     "vue": "^2.6.11",
     "vue-virtual-scroller": "^1.0.10"
